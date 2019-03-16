@@ -62,7 +62,7 @@ device: iphone-se-silver-vertical # REQUIRED
 #
 # Theme Settings
 #
-background_color: "#FFFFFF" # Optional
+background_color: "#000000" # Optional
 background_image: #/images/backgrounds/wallpaper.png # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
